@@ -1,0 +1,279 @@
+{
+    "metadata": {
+        "generated_at": "2024-12-02T16:40:49.199233",
+        "total_questions": 19,
+        "book_title": "Sample Book Title",
+        "tool_used": "Ollama"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "topic": "Senior Software Development Engineer",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the primary role of a Senior Software Development Engineer?",
+            "options": [
+                "A) Project Manager",
+                "B) Technical Lead",
+                "C) Quality Assurance Specialist",
+                "D) Software Developer"
+            ],
+            "correct_answer": "B) Technical Lead"
+        },
+        {
+            "id": 2,
+            "topic": "Senior Software Development Engineer",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the typical career path for a Senior Software Development Engineer?",
+            "options": [
+                "A) From Junior to Mid-Level in 3-5 years",
+                "B) From Mid-Level to Senior in 5-7 years",
+                "C) From Entry-Level to Management in 10-15 years",
+                "D) Directly from College to Senior"
+            ],
+            "correct_answer": "B) From Mid-Level to Senior in 5-7 years"
+        },
+        {
+            "id": 3,
+            "topic": "Senior Software Development Engineer",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the primary responsibility of a Senior Software Development Engineer?",
+            "options": [
+                "A) Code Review and Testing",
+                "B) Technical Leadership and Mentoring",
+                "C) Project Planning and Execution",
+                "D) Quality Assurance and Compliance"
+            ],
+            "correct_answer": "B) Technical Leadership and Mentoring"
+        },
+        {
+            "id": 4,
+            "topic": "Senior Software Development Engineer",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the typical level of experience for a Senior Software Development Engineer?",
+            "options": [
+                "A) 1-3 years of experience",
+                "B) 5-10 years of experience",
+                "C) 15-20 years of experience",
+                "D) 25+ years of experience"
+            ],
+            "correct_answer": "B) 5-10 years of experience"
+        },
+        {
+            "id": 5,
+            "topic": "Senior Software Development Engineer",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the primary goal of a Senior Software Development Engineer?",
+            "options": [
+                "A) To complete projects on time and within budget",
+                "B) To deliver high-quality software solutions",
+                "C) To increase team productivity and efficiency",
+                "D) To reduce project costs and improve profitability"
+            ],
+            "correct_answer": "B) To deliver high-quality software solutions"
+        },
+        {
+            "id": 6,
+            "topic": "Key Projects",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the name of the project that involves detecting emotion in Indic languages?",
+            "options": [
+                "A) Cyberbullying Detection",
+                "B) Indic Multilingual Emotion Detection",
+                "C) Indic Multilingual Text Summarization",
+                "D) Machine Learning Engineer Intern"
+            ],
+            "correct_answer": "B) Indic Multilingual Emotion Detection"
+        },
+        {
+            "id": 7,
+            "topic": "Key Projects",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the name of the project that involves summarizing text in Indic languages?",
+            "options": [
+                "A) Cyberbullying Detection",
+                "B) Indic Multilingual Text Summarization",
+                "C) Machine Learning Engineer Intern",
+                "D) Indic Multilingual Emotion Detection"
+            ],
+            "correct_answer": "B) Indic Multilingual Text Summarization"
+        },
+        {
+            "id": 8,
+            "topic": "Key Projects",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the name of the project that involves detecting cyberbullying?",
+            "options": [
+                "A) Indic Multilingual Emotion Detection",
+                "B) Cyberbullying Detection",
+                "C) Machine Learning Engineer Intern",
+                "D) Indic Multilingual Text Summarization"
+            ],
+            "correct_answer": "B) Cyberbullying Detection"
+        },
+        {
+            "id": 9,
+            "topic": "Key Projects",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the name of the project that involves detecting emotion in Hindi language?",
+            "options": [
+                "A) Indic Multilingual Emotion Detection",
+                "B) Machine Learning Engineer Intern",
+                "C) Cyberbullying Detection",
+                "D) Indic Multilingual Text Summarization"
+            ],
+            "correct_answer": "A) Indic Multilingual Emotion Detection"
+        },
+        {
+            "id": 10,
+            "topic": "Key Projects",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the name of the project that involves summarizing text in Bengali language?",
+            "options": [
+                "A) Cyberbullying Detection",
+                "B) Machine Learning Engineer Intern",
+                "C) Indic Multilingual Text Summarization",
+                "D) Indic Multilingual Emotion Detection"
+            ],
+            "correct_answer": "C) Indic Multilingual Text Summarization"
+        },
+        {
+            "id": 11,
+            "topic": "Education",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the degree Bishwaraj Paul earned from NIT?",
+            "options": [
+                "A) B.Tech",
+                "B) M.Tech",
+                "C) Ph.D.",
+                "D) B.Sc."
+            ],
+            "correct_answer": "A) B.Tech"
+        },
+        {
+            "id": 12,
+            "topic": "Education",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the field of study Bishwaraj Paul pursued at NIT?",
+            "options": [
+                "A) Engineering",
+                "B) Science",
+                "C) Arts",
+                "D) Commerce"
+            ],
+            "correct_answer": "A) Engineering"
+        },
+        {
+            "id": 13,
+            "topic": "Education",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the duration of Bishwaraj Paul's education at NIT?",
+            "options": [
+                "A) 3 years",
+                "B) 4 years",
+                "C) 5 years",
+                "D) 6 years"
+            ],
+            "correct_answer": "B) 4 years"
+        },
+        {
+            "id": 14,
+            "topic": "Education",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the name of the university where Bishwaraj Paul studied?",
+            "options": [
+                "A) NIT",
+                "B) IIT",
+                "C) JU",
+                "D) DU"
+            ],
+            "correct_answer": "A) NIT"
+        },
+        {
+            "id": 15,
+            "topic": "Web Development",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is Flask?",
+            "options": [
+                "A) A JavaScript library for web development.",
+                "B) A Python framework for building web applications.",
+                "C) A CSS preprocessor for generating stylesheets.",
+                "D) A HTML parser for validating documents."
+            ],
+            "correct_answer": "B) A Python framework for building web applications."
+        },
+        {
+            "id": 16,
+            "topic": "Web Development",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the purpose of Bootstrap?",
+            "options": [
+                "A) To generate random passwords.",
+                "B) To style and layout web pages with CSS and HTML.",
+                "C) To compress files for faster transmission.",
+                "D) To create interactive web applications."
+            ],
+            "correct_answer": "B) To style and layout web pages with CSS and HTML."
+        },
+        {
+            "id": 17,
+            "topic": "Web Development",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the role of a Web Developer?",
+            "options": [
+                "A) To design user interfaces.",
+                "B) To write efficient algorithms.",
+                "C) To build scalable web applications.",
+                "D) To create engaging marketing campaigns."
+            ],
+            "correct_answer": "C) To build scalable web applications."
+        },
+        {
+            "id": 18,
+            "topic": "Web Development",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the purpose of a CSS?",
+            "options": [
+                "A) To generate random passwords.",
+                "B) To style and layout web pages.",
+                "C) To compress files for faster transmission.",
+                "D) To create interactive web applications."
+            ],
+            "correct_answer": "B) To style and layout web pages."
+        },
+        {
+            "id": 19,
+            "topic": "Web Development",
+            "page_numbers": "0",
+            "type": "MCQ",
+            "question": "What is the role of a Web Designer?",
+            "options": [
+                "A) To write efficient algorithms.",
+                "B) To build scalable web applications.",
+                "C) To design user interfaces.",
+                "D) To create engaging marketing campaigns."
+   
+
+         ],
+            "correct_answer": "C) To design user interfaces."
+        }
+    ]
+}
+
