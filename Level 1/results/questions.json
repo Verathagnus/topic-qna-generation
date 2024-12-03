@@ -1,0 +1,270 @@
+{
+    "metadata": {
+        "generated_at": "2024-12-01T19:48:43.667988",
+        "total_questions": 20,
+        "book_title": "Sample Book Title",
+        "tool_used": "Ollama"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "topic": "Web Development",
+            "type": "MCQ",
+            "question": "What is the primary function of HTML?",
+            "options": [
+                "A) To create dynamic web pages.",
+                "B) To add interactivity to a website.",
+                "C) To define the structure and content of a webpage.",
+                "D) To handle user input on a website."
+            ],
+            "correct_answer": "C) To define the structure and content of a webpage."
+        },
+        {
+            "id": 2,
+            "topic": "Web Development",
+            "type": "MCQ",
+            "question": "What is the purpose of CSS?",
+            "options": [
+                "A) To add interactivity to a website.",
+                "B) To handle user input on a website.",
+                "C) To separate presentation from structure and content.",
+                "D) To define the layout of a webpage."
+            ],
+            "correct_answer": "C) To separate presentation from structure and content."
+        },
+        {
+            "id": 3,
+            "topic": "Web Development",
+            "type": "MCQ",
+            "question": "What is JavaScript used for?",
+            "options": [
+                "A) To create static web pages.",
+                "B) To add interactivity to a website.",
+                "C) To handle user input on a website.",
+                "D) To define the structure and content of a webpage."
+            ],
+            "correct_answer": "B) To add interactivity to a website."
+        },
+        {
+            "id": 4,
+            "topic": "Web Development",
+            "type": "MCQ",
+            "question": "What is the purpose of Node.js?",
+            "options": [
+                "A) To create dynamic web pages.",
+                "B) To handle user input on a website.",
+                "C) To run JavaScript outside of a browser.",
+                "D) To add interactivity to a website."
+            ],
+            "correct_answer": "C) To run JavaScript outside of a browser."
+        },
+        {
+            "id": 5,
+            "topic": "Web Development",
+            "type": "MCQ",
+            "question": "What is the primary function of a framework?",
+            "options": [
+                "A) To provide a set of pre-built components.",
+                "B) To handle user input on a website.",
+                "C) To define the structure and content of a webpage.",
+                "D) To add interactivity to a website."
+            ],
+            "correct_answer": "A) To provide a set of pre-built components."
+        },
+        {
+            "id": 6,
+            "topic": "Education",
+            "type": "MCQ",
+            "question": "What is the primary purpose of education?",
+            "options": [
+                "A) To prepare students for a career in sports.",
+                "B) To provide basic knowledge and skills for everyday life.",
+                "C) To encourage critical thinking and problem-solving.",
+                "D) To develop physical strength and endurance."
+            ],
+            "correct_answer": "B) To provide basic knowledge and skills for everyday life."
+        },
+        {
+            "id": 7,
+            "topic": "Education",
+            "type": "MCQ",
+            "question": "Which of the following is an example of a non-formal education?",
+            "options": [
+                "A) Formal schooling in a traditional classroom.",
+                "B) Online courses offered by a university.",
+                "C) Literacy programs for adults.",
+                "D) Apprenticeships for vocational training."
+            ],
+            "correct_answer": "C) Literacy programs for adults."
+        },
+        {
+            "id": 8,
+            "topic": "Education",
+            "type": "MCQ",
+            "question": "What is the term for the process of learning through hands-on experience?",
+            "options": [
+                "A) Didacticism.",
+                "B) Constructivism.",
+                "C) Experiential learning.",
+                "D) Instructional design."
+            ],
+            "correct_answer": "C) Experiential learning."
+        },
+        {
+            "id": 9,
+            "topic": "Education",
+            "type": "MCQ",
+            "question": "Which of the following is a key benefit of early childhood education?",
+            "options": [
+                "A) Improved academic performance in later years.",
+                "B) Enhanced social skills and emotional intelligence.",
+                "C) Increased creativity and imagination.",
+                "D) Better physical health and well-being."
+            ],
+            "correct_answer": "B) Enhanced social skills and emotional intelligence."
+        },
+        {
+            "id": 10,
+            "topic": "Education",
+            "type": "MCQ",
+            "question": "What is the term for a system of education that focuses on teaching students to think critically and solve problems?",
+            "options": [
+                "A) Traditional education.",
+                "B) Progressive education.",
+                "C) Inquiry-based learning.",
+                "D) Competency-based education."
+            ],
+            "correct_answer": "C) Inquiry-based learning."
+        },
+        {
+            "id": 11,
+            "topic": "Software Development Engineer",
+            "type": "MCQ",
+            "question": "What is the primary responsibility of a Software Development Engineer?",
+            "options": [
+                "A) Designing and implementing software solutions.",
+                "B) Managing project timelines and budgets.",
+                "C) Conducting code reviews and ensuring code quality.",
+                "D) Providing technical support to customers."
+            ],
+            "correct_answer": "A) Designing and implementing software solutions."
+        },
+        {
+            "id": 12,
+            "topic": "Software Development Engineer",
+            "type": "MCQ",
+            "question": "What programming language is most commonly used in the industry?",
+            "options": [
+                "A) Python",
+                "B) Java",
+                "C) C++",
+                "D) JavaScript"
+            ],
+            "correct_answer": "B) Java"
+        },
+        {
+            "id": 13,
+            "topic": "Software Development Engineer",
+            "type": "MCQ",
+            "question": "What is the term for a software development methodology that emphasizes flexibility and rapid delivery?",
+            "options": [
+                "A) Waterfall",
+                "B) Agile",
+                "C) Scrum",
+                "D) Kanban"
+            ],
+            "correct_answer": "B) Agile"
+        },
+        {
+            "id": 14,
+            "topic": "Software Development Engineer",
+            "type": "MCQ",
+            "question": "What is the primary benefit of using a cloud-based infrastructure?",
+            "options": [
+                "A) Reduced costs and increased scalability.",
+                "B) Improved security and reliability.",
+                "C) Enhanced collaboration and communication.",
+                "D) Increased flexibility and adaptability."
+            ],
+            "correct_answer": "A) Reduced costs and increased scalability."
+        },
+        {
+            "id": 15,
+            "topic": "Software Development Engineer",
+            "type": "MCQ",
+            "question": "What is the term for a software development technique that involves breaking down complex problems into smaller, manageable pieces?",
+            "options": [
+                "A) Decomposition",
+                "B) Abstraction",
+                "C) Encapsulation",
+                "D) Modularity"
+            ],
+            "correct_answer": "A) Decomposition"
+        },
+        {
+            "id": 16,
+            "topic": "Machine Learning Engineer",
+            "type": "MCQ",
+            "question": "What is the primary goal of a Machine Learning Engineer?",
+            "options": [
+                "A) To design and implement machine learning models that are highly interpretable",
+                "B) To develop algorithms that can learn from data without human intervention",
+                "C) To create systems that can reason like humans",
+                "D) To build predictive models that can make accurate decisions"
+            ],
+            "correct_answer": "B) To develop algorithms that can learn from data without human intervention"
+        },
+        {
+            "id": 17,
+            "topic": "Machine Learning Engineer",
+            "type": "MCQ",
+            "question": "What is the primary tool used by a Machine Learning Engineer to implement machine learning models?",
+            "options": [
+                "A) TensorFlow",
+                "B) PyTorch",
+                "C) Scikit-Learn",
+                "D) Keras"
+            ],
+            "correct_answer": "C) Scikit-Learn"
+        },
+        {
+            "id": 18,
+            "topic": "Machine Learning Engineer",
+            "type": "MCQ",
+            "question": "What is the primary metric used to evaluate the performance of a machine learning model?",
+            "options": [
+                "A) Accuracy",
+                "B) Precision",
+                "C) Recall",
+                "D) F1 Score"
+            ],
+            "correct_answer": "A) Accuracy"
+        },
+        {
+            "id": 19,
+            "topic": "Machine Learning Engineer",
+            "type": "MCQ",
+            "question": "What is the primary benefit of using a machine learning model in a real-world application?",
+            "options": [
+                "A) To reduce computational complexity",
+                "B) To increase interpretability",
+                "C) To improve predictive accuracy",
+                "D) To enhance human interaction"
+            ],
+            "correct_answer": "C) To improve predictive accuracy"
+        },
+        {
+            "id": 20,
+            "topic": "Machine Learning Engineer",
+            "type": "MCQ",
+            "question": "What is the primary challenge faced by a Machine Learning Engineer when working with large datasets?",
+            "options": [
+                "A) To handle high-dimensional data",
+                "B) To manage memory constraints",
+                "C) To prevent overfitting",
+                "D) To ensure data quality"
+            ],
+            "correct_answer": "D) To ensure data quality"
+        }
+    ]
+}
