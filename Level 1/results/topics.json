@@ -1,0 +1,12 @@
+{
+    "book_title": "Sample Book Title",
+    "total_topics": 5,
+    "extraction_timestamp": "2024-12-01T19:48:43.667988",
+    "main_topics": [
+        "Web Development",
+        "Education",
+        "Software Development Engineer",
+        "Machine Learning Engineer",
+        "AWS Certified Cloud Practitioner"
+    ]
+}
