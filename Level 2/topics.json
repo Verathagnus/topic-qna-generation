@@ -1,0 +1,15 @@
+{
+    "book_title": "Sample Book Title",
+    "total_topics": 8,
+    "extraction_timestamp": "2024-12-02T16:40:49.199233",
+    "main_topics": [
+        "AWS Cloud Practitioner",
+        "Coding Skills",
+        "Senior Software Development Engineer",
+        "Machine Learning Engineer Intern",
+        "Key Projects",
+        "Education",
+        "Web Development",
+        "Database Management"
+    ]
+}
